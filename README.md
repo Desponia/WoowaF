@@ -1,2 +1,0 @@
-# WoowaF
-Created with CodeSandbox
